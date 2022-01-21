@@ -21,6 +21,7 @@
     <artifactId>ranger-distro</artifactId>
     <name>Apache Ranger Distribution</name>
     <description>Apache Ranger Distribution</description>
+    <packaging>pom</packaging>
     <parent>
         <groupId>org.apache.ranger</groupId>
         <artifactId>ranger</artifactId>
